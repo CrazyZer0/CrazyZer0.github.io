@@ -205,7 +205,7 @@ b. 可以用二进制容器 bitset 代替普通容器，对于这个容器的使
 &lt;/blockquote&gt;
 </content>
         <category term="密码学" scheme="https://crazyzer0.github.io/categories/%E5%AF%86%E7%A0%81%E5%AD%A6/" />
-        <category term="密码学的c++实现" scheme="https://crazyzer0.github.io/tags/%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9A%84c-%E5%AE%9E%E7%8E%B0/" />
+        <category term="密码学的代码实现" scheme="https://crazyzer0.github.io/tags/%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/" />
         <updated>2023-09-06T16:38:18.000Z</updated>
     </entry>
 </feed>

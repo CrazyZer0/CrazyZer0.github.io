@@ -96,7 +96,7 @@ b. 可以用二进制容器 bitset 代替普通容器，对于这个容器的使
             <title>密码学之美--古典密码</title>
             <link>https://crazyzer0.github.io/2023/09/07/%E5%AF%86%E7%A0%81%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%8F%A4%E5%85%B8%E5%AF%86%E7%A0%81/</link>
             <category term="密码学" scheme="https://crazyzer0.github.io/categories/%E5%AF%86%E7%A0%81%E5%AD%A6/" />
-            <category term="密码学的c++实现" scheme="https://crazyzer0.github.io/tags/%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9A%84c-%E5%AE%9E%E7%8E%B0/" />
+            <category term="密码学的代码实现" scheme="https://crazyzer0.github.io/tags/%E5%AF%86%E7%A0%81%E5%AD%A6%E7%9A%84%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/" />
             <pubDate>Thu, 07 Sep 2023 00:38:18 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;有一说一，密码学天天不去上课的我心情逐渐慌乱起来，放纵让 A5152 提前好几个月放寒假，密码学结课的日子一天天逼近，就好像寒假快要结束但是作业还没写的小学生。李鼎说，&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;” 遇到了困难，就不做了，睡大觉。”&lt;/span&gt;“只要思想不滑坡，方法总比困难多。” 目前，性价比最高的解决路径是把握好密码学课程设计的契机。&lt;s&gt;所谓 “水课”，不就是用来玩的嘛&lt;/s&gt;密码学课程设计作为信息安全专业最核心的专业实践课之一，看似枯燥无味，实则弃之有肉。在思路空白的情况下，一边预习课本一边用代码验证自己的预习成果不失为 “曲线救国” 之良策。&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;又菜又爱玩，还给自己找借口，我可真是个铁废物！&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;古典密码概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#古典密码概述&#34;&gt;#&lt;/a&gt; 古典密码概述&lt;/h1&gt;
