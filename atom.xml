@@ -10,9 +10,9 @@
     </author>
     <updated>2023-09-07T19:16:47.000Z</updated>
     <entry>
-        <id>https://crazyzer0.github.io/2023/09/08/%E5%AF%86%E7%A0%81%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%BA%8F%E5%88%97%E5%AF%86%E7%A0%81/</id>
-        <title>密码学之美--序列密码</title>
-        <link rel="alternate" href="https://crazyzer0.github.io/2023/09/08/%E5%AF%86%E7%A0%81%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%BA%8F%E5%88%97%E5%AF%86%E7%A0%81/"/>
+        <id>https://crazyzer0.github.io/2023/09/08/%E5%BA%8F%E5%88%97%E5%AF%86%E7%A0%81/</id>
+        <title>序列密码</title>
+        <link rel="alternate" href="https://crazyzer0.github.io/2023/09/08/%E5%BA%8F%E5%88%97%E5%AF%86%E7%A0%81/"/>
         <content type="html">&lt;h1 id=&#34;最近事比较多有空再将理论部分好好完善一下&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最近事比较多有空再将理论部分好好完善一下&#34;&gt;#&lt;/a&gt; &lt;span class=&#34;red&#34;&gt;&lt;strong&gt;最近事比较多，有空再将理论部分好好完善一下！&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt;
 &lt;p&gt;最近密码课程设计催得紧，另一方面还得准备密码考试，心态快崩了，我只想玩，我只想快点放假。后来想了想，事实却是，菜鸡好像不配玩！算了算了，我还是好好学习几天。为了我愉快的寒假，耐心点 zza，风雨之后仍然是风雨，船到桥头自然沉。有一句形容困难的话不是叫 “野火烧不尽，春风吹又生” 嘛，你急个 der，熬一天是一天不好嘛，每天都有各种解决不了的困难等着你，整得像哪一天可以解决一样！&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;看到这了，陌生人，今天是我生日，要不要祝我生日快乐？2021/1/11 更新！&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;序列密码概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#序列密码概述&#34;&gt;#&lt;/a&gt; 序列密码概述&lt;/h1&gt;
@@ -89,9 +89,9 @@ b. 可以用二进制容器 bitset 代替普通容器，对于这个容器的使
         <updated>2023-09-07T19:16:47.000Z</updated>
     </entry>
     <entry>
-        <id>https://crazyzer0.github.io/2023/09/07/%E5%AF%86%E7%A0%81%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%8F%A4%E5%85%B8%E5%AF%86%E7%A0%81/</id>
-        <title>密码学之美--古典密码</title>
-        <link rel="alternate" href="https://crazyzer0.github.io/2023/09/07/%E5%AF%86%E7%A0%81%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E5%8F%A4%E5%85%B8%E5%AF%86%E7%A0%81/"/>
+        <id>https://crazyzer0.github.io/2023/09/07/%E5%8F%A4%E5%85%B8%E5%AF%86%E7%A0%81/</id>
+        <title>古典密码</title>
+        <link rel="alternate" href="https://crazyzer0.github.io/2023/09/07/%E5%8F%A4%E5%85%B8%E5%AF%86%E7%A0%81/"/>
         <content type="html">&lt;p&gt;有一说一，密码学天天不去上课的我心情逐渐慌乱起来，放纵让 A5152 提前好几个月放寒假，密码学结课的日子一天天逼近，就好像寒假快要结束但是作业还没写的小学生。李鼎说，&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;” 遇到了困难，就不做了，睡大觉。”&lt;/span&gt;“只要思想不滑坡，方法总比困难多。” 目前，性价比最高的解决路径是把握好密码学课程设计的契机。&lt;s&gt;所谓 “水课”，不就是用来玩的嘛&lt;/s&gt;密码学课程设计作为信息安全专业最核心的专业实践课之一，看似枯燥无味，实则弃之有肉。在思路空白的情况下，一边预习课本一边用代码验证自己的预习成果不失为 “曲线救国” 之良策。&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;又菜又爱玩，还给自己找借口，我可真是个铁废物！&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;古典密码概述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#古典密码概述&#34;&gt;#&lt;/a&gt; 古典密码概述&lt;/h1&gt;
 &lt;p&gt;经典密码体制都是对称密码体制，密钥由安全信道传递，可分为：替换密码 / 代换密码（Substitution）—— 用一个符号代替另一个符号。&lt;br /&gt;
